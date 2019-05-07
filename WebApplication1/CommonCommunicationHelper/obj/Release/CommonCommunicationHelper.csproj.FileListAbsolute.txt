@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\Vinoth Assignment\20_MVC Assignment1_458513_Pitchandi Vinothkumar\WebApplication1\CommonCommunicationHelper\bin\Release\CommonCommunicationHelper.dll
+C:\Users\Administrator\Desktop\Vinoth Assignment\20_MVC Assignment1_458513_Pitchandi Vinothkumar\WebApplication1\CommonCommunicationHelper\bin\Release\CommonCommunicationHelper.pdb
+C:\Users\Administrator\Desktop\Vinoth Assignment\20_MVC Assignment1_458513_Pitchandi Vinothkumar\WebApplication1\CommonCommunicationHelper\obj\Release\CommonCommunicationHelper.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Vinoth Assignment\20_MVC Assignment1_458513_Pitchandi Vinothkumar\WebApplication1\CommonCommunicationHelper\obj\Release\CommonCommunicationHelper.dll
+C:\Users\Administrator\Desktop\Vinoth Assignment\20_MVC Assignment1_458513_Pitchandi Vinothkumar\WebApplication1\CommonCommunicationHelper\obj\Release\CommonCommunicationHelper.pdb
